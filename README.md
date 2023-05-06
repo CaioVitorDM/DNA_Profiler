@@ -1,7 +1,5 @@
 # Este trabalho é referente ao projeto da Unidade 2 da disciplina de Linguagem de Programação no IMD/UFRN.
 
-#
-
 # Compilação
 
   Para compilar o programar, é necessário apenas dar o comando Make ao seu terminal dentro da pasta do projeto.
