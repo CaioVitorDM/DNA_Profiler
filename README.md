@@ -2,7 +2,7 @@
 
 # Compilação
 
-  Para compilar o programar, é necessário apenas dar o comando Make ao seu terminal dentro da pasta do projeto.
+  Para compilar o programa, é necessário apenas dar o comando Make ao seu terminal dentro da pasta do projeto.
 
 #
 
