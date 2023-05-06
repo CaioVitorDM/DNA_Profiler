@@ -10,6 +10,6 @@
 
   Para executar o programa é necessário ir até a pasta bin e executar a seguinte linha de comando:
 
-  ./DNA_profiler -d ../data/data.csv -s ../data/nome_da_sequencia.txt
+  ```./DNA_profiler -d ../data/data.csv -s ../data/nome_da_sequencia.txt```
 
   Foram disponibilizadas quatro sequências: uma de alice, uma de charlie, uma de bob e uma no match.
