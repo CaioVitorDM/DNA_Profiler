@@ -1,4 +1,4 @@
-### Este trabalho é referente ao projeto da Unidade 2 da disciplina de Linguagem de Programação no IMD/UFRN.
+# Este trabalho é referente ao projeto da Unidade 2 da disciplina de Linguagem de Programação no IMD/UFRN.
 
 #
 
